@@ -3,7 +3,7 @@ This is almost the same as the U-Net segmentation project (<a href="https://gith
 
 <a href="https://ieeexplore.ieee.org/abstract/document/8309343">Zhange, Zhengxin, et al. "Road extraction by deep residual u-net." IEEE Geoscience and Remote Sensing Letters, vol. 15, no. 5, pp. 749-753, May 2018.</a>
 
-#### Network was trained with SPECT/Attuenuation-Map simulations and tested with the patient PET/CT
+#### Network was trained with the SPECT/Attuenuation-Map simulations and tested with the patient PET/CT
 #### Main script: run/train_ResUNet.py
 
 ## Example Segmentation Results
