@@ -6,7 +6,7 @@ This is almost the same as the U-Net segmentation project (<a href="https://gith
 ## Example Segmentation Results
 ### Validation Set (SPECT/CT simulations)
 <img src="https://github.com/junyuchen245/SPECT-CT-Seg-ResUNet-Keras/blob/master/sample_img/validation.png" width="400"/>
-Dice similarity coefficient: 0.958 for lesion, 0.963 for bone
+Dice similarity coefficient: 0.977 for lesion, 0.979 for bone
 
 ### Testing Set (PET/CT)
 <img src="https://github.com/junyuchen245/SPECT-CT-Seg-ResUNet-Keras/blob/master/sample_img/test.png" width="300"/>
