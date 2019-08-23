@@ -14,3 +14,7 @@ Dice similarity coefficient: 0.977 for lesion, 0.979 for bone
 ### Testing Set (PET/CT)
 <img src="https://github.com/junyuchen245/SPECT-CT-Seg-ResUNet-Keras/blob/master/sample_img/test.png" width="300"/>
 Resulting an undesired result with the unseen patient PET/CT images.
+
+
+### <a href="junyuchen245.github.io"> About Myself</a>
+
