@@ -16,5 +16,5 @@ Dice similarity coefficient: 0.977 for lesion, 0.979 for bone
 Resulting an undesired result with the unseen patient PET/CT images.
 
 
-### <a href="junyuchen245.github.io"> About Myself</a>
+### <a href="https://junyuchen245.github.io"> About Myself</a>
 
